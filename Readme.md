@@ -43,7 +43,7 @@ https://t.me/+ElKuvM2jqnQwNTc1
 4. Google Colab (https://colab.research.google.com)
 5. GitHub (https://github.com)
 6. Heroku (https://heroku.com)
-7. Mobile App Inventor (ai2.appinventor.mit.edu)
+7. Mobile App Inventor (http://ai2.appinventor.mit.edu)
 8. Make Skilled (https://makeskilled.com)
 
 
