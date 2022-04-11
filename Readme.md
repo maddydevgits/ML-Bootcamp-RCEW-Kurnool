@@ -11,6 +11,18 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 # Telegram Group
 https://t.me/+ElKuvM2jqnQwNTc1
 
+# Projects
+1. Diabetes Prediction System using Supervised ML
+2. Email Spam Detection 
+3. Credit Card Fraud Detection
+4. Social Distance Detector
+5. Face Mask Detection
+6. Object Detection for Blind
+7. Sign Language Translator
+8. Yoga Posture Detector
+9. Hand Gesture Controlled Volume Control
+10. Animals Detection in Fields
+11. Weapon Detection in CCTV Footage
 
 # Session Content
 
