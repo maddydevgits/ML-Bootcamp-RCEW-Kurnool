@@ -23,6 +23,7 @@ https://t.me/+ElKuvM2jqnQwNTc1
 9. Hand Gesture Controlled Volume Control
 10. Animals Detection in Fields
 11. Weapon Detection in CCTV Footage
+12. Mirchi Rippen Detection
 
 # Session Content
 
