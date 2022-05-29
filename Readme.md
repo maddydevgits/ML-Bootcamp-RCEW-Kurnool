@@ -22,7 +22,7 @@ https://t.me/+ElKuvM2jqnQwNTc1
 8. Yoga Posture Detector
 9. Hand Gesture Controlled Volume Control
 10. Animals Detection in Fields
-11. Weapon Detection in CCTV Footage
+11. Tourism Chatbot
 12. Fruit Rippen Detection
 
 # Session Content
